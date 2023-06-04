@@ -1,0 +1,35 @@
+title: Victoire's blog
+email: victoire.macgarry@gmail.com
+description: blablabla...
+url: "https://victoiremg.github.io"
+linkedin_username: victoiremacgarry
+github_username:  VictoireMG
+owner: Victoire Mac Garry
+author: Victoire Mac Garry
+
+theme: minima
+
+paginate: 7
+paginate_path: "/page/:num/"
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# google_analytics: UA-170163331-1
+
+# disqus:
+#   shortname: clementbm
+
+# Github page overrides
+gist:
+  noscript: false
+future: true 
+jailed: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
