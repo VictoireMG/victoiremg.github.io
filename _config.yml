@@ -20,10 +20,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-# google_analytics: UA-170163331-1
+# google_analytics: UA-##########-##
 
 # disqus:
-#   shortname: clementbm
+#   shortname: disqus_name
 
 # Github page overrides
 gist:
