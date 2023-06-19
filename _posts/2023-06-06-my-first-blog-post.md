@@ -7,7 +7,7 @@ categories: [theory]
 tags: [NLTK, NLP, statistic, collocation]
 ---
 
-![Grape vine fruit](/assets/2023-01-18/pexels-maur%C3%ADcio-mascaro-9192252.jpg){: width="100%"  }
+![Grape vine fruit](/assets/2023-06-06/pizza.jpg){: width="100%"  }
 
 # ...
 
